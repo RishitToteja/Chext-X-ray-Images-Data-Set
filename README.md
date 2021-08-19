@@ -1,1 +1,2 @@
-# Prediction-of-COVID-19-using-Chext-X-ray-Images-Convolutional-Neural-Network
+
+# Chext-X-ray-Images-Data-Set
